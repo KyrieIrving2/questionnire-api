@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9372cbe6-19dc-4566-9561-cd22816b2f06" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/ctrl/controllers/template_ctrl.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/ctrl/controllers/template_ctrl.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,10 +91,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605328106053" />
-    <state x="693" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604716713941">
+    <state x="693" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605330364519">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="693" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604716713941" />
+    <state x="693" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605330364519" />
     <state width="889" height="466" key="DebuggerActiveHint" timestamp="1604815889478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

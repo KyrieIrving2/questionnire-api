@@ -135,24 +135,6 @@ paths:
       summary: 更新模板
       tags:
       - template
-  /template/{id}:
-    get:
-      consumes:
-      - application/json
-      description: delete template
-      parameters:
-      - description: ' '
-        in: path
-        name: id
-        type: integer
-      produces:
-      - application/json
-      responses:
-        "200":
-          description: ok
-      summary: 删除模板
-      tags:
-      - template
   /user:
     get:
       consumes:
