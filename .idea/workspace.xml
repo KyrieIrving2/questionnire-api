@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9372cbe6-19dc-4566-9561-cd22816b2f06" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1jwV5BpjKQM4Q8ma0HaKYaiMGH2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="D:/workspace/go-communal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\v_shangxie\go\src\questionnaire_api\domain\template\repository\facade" />
+      <recent name="C:\Users\v_shangxie\go\src\questionnaire_api\middleware" />
+      <recent name="C:\Users\v_shangxie\go\src\questionnaire_api\domain\panel\entity" />
+      <recent name="C:\Users\v_shangxie\go\src\questionnaire_api\domain\lookup_resource\entity" />
+      <recent name="C:\Users\v_shangxie\go\src\questionnaire_api\domain\question\entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\v_shangxie\go\src\questionnaire_api\domain\template\entity" />
+      <recent name="C:\Users\v_shangxie\go\src\questionnaire_api\domain\user" />
+      <recent name="C:\Users\v_shangxie\go\src\questionnaire_api\domain\question" />
+      <recent name="C:\Users\v_shangxie\go\src\questionnaire_api\domain\panel" />
+      <recent name="C:\Users\v_shangxie\go\src\questionnaire_api\domain\lookup_resource" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="questionnaire_api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="questionnaire_api" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604715473536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604715473536" />
+    <state x="693" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604716713941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604716713941" />
+    <state width="889" height="466" key="DebuggerActiveHint" timestamp="1604815889478">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="889" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1604815889478" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1605076605951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605076605951" />
+    <state width="1399" height="336" key="GridCell.Tab.0.bottom" timestamp="1605072576048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1399" height="336" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605072576048" />
+    <state width="1399" height="336" key="GridCell.Tab.0.center" timestamp="1605072576048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1399" height="336" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605072576048" />
+    <state width="1399" height="336" key="GridCell.Tab.0.left" timestamp="1605072576048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1399" height="336" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605072576048" />
+    <state width="1399" height="336" key="GridCell.Tab.0.right" timestamp="1605072576048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1399" height="336" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605072576048" />
+    <state width="1400" height="336" key="GridCell.Tab.1.bottom" timestamp="1605072575938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605072575938" />
+    <state width="1400" height="336" key="GridCell.Tab.1.center" timestamp="1605072575938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="336" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605072575938" />
+    <state width="1400" height="336" key="GridCell.Tab.1.left" timestamp="1605072575938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="336" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605072575938" />
+    <state width="1400" height="336" key="GridCell.Tab.1.right" timestamp="1605072575938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="336" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605072575938" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1604755687800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1604755687800" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1604844692890">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604844692890" />
+    <state x="661" y="252" width="598" height="536" key="find.popup" timestamp="1604715380561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="252" width="598" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604715380561" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604730706226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604730706226" />
+  </component>
+</project>

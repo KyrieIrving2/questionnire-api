@@ -1,0 +1,5 @@
+port: 8089
+
+jwt:
+  secret: questionnaire!@#$%^
+  issuer: questionnaire
