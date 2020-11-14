@@ -110,3 +110,19 @@ func SearchTemplate() gin.HandlerFunc {
 		response.Ok(pageVo, ctx)
 	}
 }
+
+
+// @Summary 删除模板
+// @Description delete template
+// @Tags template
+// @Accept  json
+// @Produce json
+// @Param id path int false " "
+// @Success 200  "ok"
+// @Router /template/{id} [get]
+// +get /template
+func DeleteById() gin.HandlerFunc {
+	return func(ctx *gin.Context) {
+		response.Ok("ok",ctx)
+	}
+}

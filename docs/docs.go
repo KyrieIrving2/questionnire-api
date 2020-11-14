@@ -190,6 +190,34 @@ var doc = `{
                 }
             }
         },
+        "/template/{id}": {
+            "get": {
+                "description": "delete template",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "template"
+                ],
+                "summary": "删除模板",
+                "parameters": [
+                    {
+                        "type": "integer",
+                        "description": " ",
+                        "name": "id",
+                        "in": "path"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "ok"
+                    }
+                }
+            }
+        },
         "/user": {
             "get": {
                 "description": "获取人员信息",
