@@ -18,5 +18,5 @@ require (
 	github.com/spf13/viper v1.7.1
 	github.com/swaggo/gin-swagger v1.3.0 // indirect
 	github.com/swaggo/swag v1.5.1
-	go.uber.org/zap v1.16.0 // indirect
+	go.uber.org/zap v1.16.0
 )
